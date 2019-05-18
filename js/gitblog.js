@@ -1,8 +1,8 @@
 var config = {
     name : "qcmsofts",
     repo : "qcmsofts.github.io",
-    client_id : "4181f81e8ffefc16a709",
-    client_secret : "bbc5236cd570ab845abef3dcce693374e70df2e4",
+    client_id : "af59993b9063e9bd31e0",
+    client_secret : "14a4e7cdbaeeb98bfec37810c547429dfe4c66d9",
     title : "青春美",
     instruction : "青春美 成立于2003年，由武汉市汉口北高中靖老师业余组建，致力于教育软件开发。",
     server_link : 'http://119.23.8.25/gh-oauth-server.php',
