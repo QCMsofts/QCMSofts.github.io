@@ -1,12 +1,13 @@
 var config = {
-    name : "your github username",
-    repo : "your github reponame",
-    client_id : "your client_id here",
-    client_secret : "your client_secret here",
-    title : "add your title",
-    instruction : "add your instruction",
-    server_link : 'your server link here',
+    name : "qcmsofts",
+    repo : "qcmsofts.github.io",
+    client_id : "4181f81e8ffefc16a709",
+    client_secret : "bbc5236cd570ab845abef3dcce693374e70df2e4",
+    title : "青春美",
+    instruction : "青春美 成立于2003年，由武汉市汉口北高中靖老师业余组建，致力于教育软件开发。",
+    server_link : 'http://119.23.8.25/gh-oauth-server.php',
     friends : {
+        青春美 : 'https://qcmaker.github.io',
         //add your friends link here
         //example:
         //imuncle : 'https://imuncle.github.io',
